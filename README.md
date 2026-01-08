@@ -12,4 +12,4 @@ Login screen update,
 PNGs,
 File writing scores,
 Different seasons, and
-Power ups
+Power ups.
