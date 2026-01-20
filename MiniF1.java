@@ -338,7 +338,7 @@ public class MiniF1 extends JFrame {
 
         private boolean left, right, up, down;
 
-        private static int MOVE_SPEED = 6;
+        private int MOVE_SPEED = 6;
 
         private final List<Obstacle> obstacles = new ArrayList<>();
         private final Random random = new Random();
